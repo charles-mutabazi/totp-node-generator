@@ -1,5 +1,5 @@
 {
-  "name": "@charles-mutabazi/generate-totp",
+  "name": "generate-totp",
   "version": "1.0.0",
   "description": "cli tool to generate TOTP tokens",
   "main": "index.js",
