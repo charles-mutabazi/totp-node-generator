@@ -14,5 +14,11 @@
   "bin": {
     "generate-totp": "bin/index.js"
   },
+  "keywords": [
+    "generate-totp",
+    "cli",
+    "totp",
+    "totp-generator"
+ ]
   "private": false
 }
