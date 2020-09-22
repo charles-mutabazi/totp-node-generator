@@ -1,6 +1,6 @@
-## TOPT Generator Using NodeJS
+## TOPT Generator CLI Using NodeJS
 
-A highly customizable implementation of Time-based OTP (TOTP).
+A customizable implementation of Time-based OTP (TOTP).
 - [TOTP](https://tools.ietf.org/html/rfc6238)
 
 If something doesn't work, please [file an issue](https://github.com/charles-mutabazi/totp-node-generator/issues)
