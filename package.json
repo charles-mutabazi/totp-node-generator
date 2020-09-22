@@ -1,7 +1,7 @@
 {
-  "name": "totp-node-generator",
+  "name": "generate-totp",
   "version": "1.0.0",
-  "description": "cli tool to generate HOTP or TOTP tokens",
+  "description": "cli tool to generate TOTP tokens",
   "main": "index.js",
   "repository": "https://github.com/charles-mutabazi/totp-node-generator.git",
   "author": "Charles M",
