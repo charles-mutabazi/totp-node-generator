@@ -1,6 +1,6 @@
 {
   "name": "generate-totp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cli tool to generate TOTP tokens",
   "main": "index.js",
   "repository": "https://github.com/charles-mutabazi/totp-node-generator.git",
@@ -10,6 +10,9 @@
     "moment": "^2.29.0",
     "pad-component": "^0.0.1",
     "yargs": "^16.0.3"
+  },
+  "bin": {
+    "generate-totp": "./index.js"
   },
   "private": false
 }
