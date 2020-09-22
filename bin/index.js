@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * Description: This is a node cli tool to generate TOTP
  * Credit: I have used algorithm created by Adalberht - https://github.com/adalberht (Thanks)
@@ -6,7 +8,7 @@
  * Country: Rwanda
  */
 
-const totp_hotp_generator = require('./totp_hotp_generator');
+const totp_hotp_generator = require('../totp_hotp_generator');
 const yargs = require("yargs");
 
 const argv = yargs
