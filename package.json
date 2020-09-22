@@ -19,6 +19,6 @@
     "cli",
     "totp",
     "totp-generator"
- ]
+ ],
   "private": false
 }
