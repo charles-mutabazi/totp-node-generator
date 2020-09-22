@@ -10,5 +10,6 @@
     "moment": "^2.29.0",
     "pad-component": "^0.0.1",
     "yargs": "^16.0.3"
-  }
+  },
+  "private": false
 }
