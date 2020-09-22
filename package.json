@@ -1,0 +1,14 @@
+{
+  "name": "totp-node-generator",
+  "version": "1.0.0",
+  "description": "cli tool to generate HOTP or TOTP tokens",
+  "main": "index.js",
+  "repository": "https://github.com/charles-mutabazi/totp-node-generator.git",
+  "author": "Charles M",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.0",
+    "pad-component": "^0.0.1",
+    "yargs": "^16.0.3"
+  }
+}
