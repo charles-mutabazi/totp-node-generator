@@ -1,6 +1,6 @@
 {
   "name": "generate-totp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli tool to generate TOTP tokens",
   "main": "index.js",
   "repository": "https://github.com/charles-mutabazi/totp-node-generator.git",
